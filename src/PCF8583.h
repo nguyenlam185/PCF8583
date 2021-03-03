@@ -21,7 +21,6 @@
 #ifndef PCF8583_h
 #define PCF8583_h
 
-#include <PCF8583.h>
 #include "Arduino.h"
 #include "Wire.h"
 
